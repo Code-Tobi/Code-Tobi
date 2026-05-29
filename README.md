@@ -1,11 +1,12 @@
-# Ich bin Tobias 
+# I'm Tobias 
 ---
-Ich bin 15 Jahre alt und leidenschaftlicher Programmierer. Mein größtes Interesse liegt bei Elektronik und KI. Meine Leidenschaft ist es, eigene Roboter und Mikrocontroller-Projekte zu entwickeln, aber ich programmiere auch gerne in Python meine eigenen kleinen Projekte. 
+I'm 15 years old and a passionate programmer. My main interests are electronics and AI. I love developing my own robots and microcontroller projects, but I also enjoy programming my own small projects in Python. 
 --- 
-## Programmierskills
-* **Python:** Grundlagen (lerne gerade komplexe Themen wie OOP oder Datenbanken)
-* **C++:** Reines C++ (Anfänger), mit Arduino-Framework (Fortgeschritten)
-* **HTML, CSS:** Grundlagen
+## Programming Skills
+* **Python:** Basics (currently learning complex topics like OOP and databases)
+* **C++:** Pure C++ (beginner), with the Arduino framework (advanced)
+* **HTML, CSS:** Basics
 
 ## Hardware Skills
-In diesem Bereich bin ich kein Anfänger mehr, allerdings auch nicht der absolute Profi.
+I’m no longer a beginner in this area, but I’m not an absolute pro either.
+
