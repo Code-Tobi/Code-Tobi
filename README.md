@@ -1,16 +1,11 @@
-## Hi there 👋
+# Ich bin Tobias 
+---
+Ich bin 15 Jahre alt und leidenschaftlicher Programmierer. Mein größtes Interesse liegt bei Elektronik und KI. Meine Leidenschaft ist es, eigene Roboter und Mikrocontroller-Projekte zu entwickeln, aber ich programmiere auch gerne in Python meine eigenen kleinen Projekte. 
+--- 
+## Programmierskills
+* **Python:** Grundlagen (lerne gerade komplexe Themen wie OOP oder Datenbanken)
+* **C++:** Reines C++ (Anfänger), mit Arduino-Framework (Fortgeschritten)
+* **HTML, CSS:** Grundlagen
 
-<!--
-**Code-Tobi/Code-Tobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hardware Skills
+In diesem Bereich bin ich kein Anfänger mehr, allerdings auch nicht der absolute Profi.
